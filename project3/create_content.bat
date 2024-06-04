@@ -4,6 +4,9 @@ REM Create directories
 mkdir content
 mkdir content\images
 
+
+type nul > abitur.html
+
 REM Create placeholder files for images
 
 type nul > content\images\khpi-logo.png
